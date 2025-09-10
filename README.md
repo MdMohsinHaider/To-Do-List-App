@@ -23,6 +23,11 @@ A responsive To-Do List web application built using HTML, CSS, and JavaScript wi
 1. Clone or download this repository.
 2. Open `index.html` in your web browser.
 
+## Live Demo
+
+You can view the live running app at:  
+[https://mdmohsinhaider.github.io/To-Do-List-App/](https://mdmohsinhaider.github.io/To-Do-List-App/)
+
 ## Developer
 
 Md Mohsin Haider  
